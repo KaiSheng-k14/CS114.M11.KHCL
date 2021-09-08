@@ -4,6 +4,7 @@ minh chứng học tập môn CS114
 Giới thiệu bản thân
 
 Họ và Tên: Nguyễn Quốc Đạt
+
 Khóa: K14-2019
 Ngành: Khoa học máy tính
 Lớp: KHCL2019.1
